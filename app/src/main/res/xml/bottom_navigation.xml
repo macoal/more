@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/bottomBarSee"
+        icon="@drawable/ic_bottombar_see"
+        title="看"  />
+    <tab
+        id="@+id/bottomBarDo"
+        icon="@drawable/ic_bottombar_do"
+        title="做" />
+    <tab
+        id="@+id/bottomBarThink"
+        icon="@drawable/ic_bottombar_think"
+        title="想" />
+</tabs>
