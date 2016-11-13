@@ -9,56 +9,70 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <!--<android.support.design.widget.AppBarLayout-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content">-->
-        <!--<android.support.v7.widget.Toolbar-->
-        <!--android:id="@+id/main_toolbar"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="?attr/actionBarSize"-->
-        <!--android:background="?attr/colorPrimary"-->
-        <!--app:layout_scrollFlags="scroll|enterAlways"/>-->
-        <!--</android.support.design.widget.AppBarLayout>-->
-
-        <include
-            android:id="@+id/toolbar_main_normal"
-            layout="@layout/toolbar_main_normal"
-            android:visibility="gone"/>
-
-        <include
-            android:id="@+id/toolbar_main_image"
-            layout="@layout/toolbar_main_image"
-            android:visibility="gone"/>
-
-        <android.support.v4.widget.NestedScrollView
-            android:id="@+id/myScrollingContent"
+        <com.one.more.easybottom.MyLinearLayout
+            android:id="@+id/linear_view"
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:layout_above="@+id/tab_layout"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-
-            <android.support.v4.view.ViewPager
-                android:id="@+id/main_viewPager"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                app:layout_behavior="@string/appbar_scrolling_view_behavior">
-            </android.support.v4.view.ViewPager>
-
-            <!--<include layout="@layout/content_main" />-->
-
-        </android.support.v4.widget.NestedScrollView>
-
-        <com.roughike.bottombar.BottomBar
-            android:id="@+id/bottomBar"
+            <FrameLayout
+            android:id="@+id/fl_body"
             android:layout_width="match_parent"
-            android:layout_height="60dp"
-            android:layout_gravity="bottom"
+            android:layout_height="match_parent"/>
+
+        </com.one.more.easybottom.MyLinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
             android:layout_alignParentBottom="true"
-            app:bb_tabXmlResource="@xml/bottom_navigation"
-            app:bb_inActiveTabAlpha="0.8"
-            app:bb_activeTabAlpha="1"
-            app:bb_inActiveTabColor="@color/colorGray"
-            app:bb_activeTabColor="@color/colorPrimary"
-            app:bb_behavior="shy"/>
+            android:background="@android:color/holo_purple"
+            app:behavior_peekHeight="0dp"
+            app:layout_behavior="@string/bottom_sheet_behavior">
+
+            <RelativeLayout
+                android:id="@+id/tab_see"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_bottombar_see"/>
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/tab_do"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_bottombar_do"
+                    />
+            </RelativeLayout>
+            <RelativeLayout
+                android:id="@+id/tab_think"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_weight="1">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_bottombar_think"/>
+            </RelativeLayout>
+        </LinearLayout>
+
     </android.support.design.widget.CoordinatorLayout>
 
     <android.support.design.widget.NavigationView
