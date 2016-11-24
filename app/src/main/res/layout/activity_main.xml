@@ -7,7 +7,8 @@
     android:fitsSystemWindows="true">
     <android.support.design.widget.CoordinatorLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:elevation="0dp">
 
         <com.one.more.easybottom.MyLinearLayout
             android:id="@+id/linear_view"
@@ -25,53 +26,65 @@
 
         </com.one.more.easybottom.MyLinearLayout>
 
-        <LinearLayout
+        <android.support.design.widget.BottomNavigationView
             android:id="@+id/tab_layout"
             android:layout_width="match_parent"
-            android:layout_height="?actionBarSize"
+            android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            android:background="@android:color/holo_purple"
+            android:elevation="8dp"
+            app:itemBackground="@color/colorWhite"
+            app:menu="@menu/navigation"
             app:behavior_peekHeight="0dp"
-            app:layout_behavior="@string/bottom_sheet_behavior">
+            app:layout_behavior="@string/bottom_sheet_behavior"/>
 
-            <RelativeLayout
-                android:id="@+id/tab_see"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_gravity="center"
-                android:gravity="center"
-                android:layout_weight="1">
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_bottombar_see"/>
-            </RelativeLayout>
-            <RelativeLayout
-                android:id="@+id/tab_do"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_gravity="center"
-                android:gravity="center"
-                android:layout_weight="1">
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_bottombar_do"
-                    />
-            </RelativeLayout>
-            <RelativeLayout
-                android:id="@+id/tab_think"
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_gravity="center"
-                android:gravity="center"
-                android:layout_weight="1">
-                <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:src="@drawable/ic_bottombar_think"/>
-            </RelativeLayout>
-        </LinearLayout>
+
+        <!--<LinearLayout-->
+            <!--android:id="@+id/tab_layout"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="?actionBarSize"-->
+            <!--android:layout_alignParentBottom="true"-->
+            <!--android:background="@android:color/holo_purple"-->
+            <!--app:behavior_peekHeight="0dp"-->
+            <!--app:layout_behavior="@string/bottom_sheet_behavior">-->
+
+            <!--<RelativeLayout-->
+                <!--android:id="@+id/tab_see"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1">-->
+                <!--<ImageView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:src="@drawable/ic_bottombar_see"/>-->
+            <!--</RelativeLayout>-->
+            <!--<RelativeLayout-->
+                <!--android:id="@+id/tab_do"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1">-->
+                <!--<ImageView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:src="@drawable/ic_bottombar_do"-->
+                    <!--/>-->
+            <!--</RelativeLayout>-->
+            <!--<RelativeLayout-->
+                <!--android:id="@+id/tab_think"-->
+                <!--android:layout_width="0dp"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:gravity="center"-->
+                <!--android:layout_weight="1">-->
+                <!--<ImageView-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:src="@drawable/ic_bottombar_think"/>-->
+            <!--</RelativeLayout>-->
+        <!--</LinearLayout>-->
 
     </android.support.design.widget.CoordinatorLayout>
 
@@ -81,6 +94,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
+        android:elevation="16dp"
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer" />
 </android.support.v4.widget.DrawerLayout>

@@ -8,7 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.one.more.R;
+import com.one.more.see.R;
+import com.one.util.fragment.BaseFragment;
 
 /**
  * Created by mcz on 2016/10/19

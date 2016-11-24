@@ -1,0 +1,26 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.one.more.see">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.TransNav">
+
+        <activity
+            android:name=".activity.MainActivity">
+            <intent-filter>
+                <data
+                    android:host="bizTwo"
+                    android:path="/someWorks"
+                    android:scheme="appName"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.NewsDescribeActivity"/>
+        <activity android:name=".activity.ZHDescribeActivity"/>
+    </application>
+
+</manifest>

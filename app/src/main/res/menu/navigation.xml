@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tab_see"
+        android:icon="@drawable/ic_bottombar_see"
+        android:title="see"/>
+    <item
+        android:id="@+id/tab_do"
+        android:icon="@drawable/ic_bottombar_do"
+        android:title="do"/>
+    <item
+        android:id="@+id/tab_think"
+        android:icon="@drawable/ic_bottombar_think"
+        android:title="think"/>
+</menu>

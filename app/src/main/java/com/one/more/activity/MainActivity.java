@@ -3,6 +3,8 @@ package com.one.more.activity;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
+import android.support.annotation.NonNull;
+import android.support.design.widget.BottomNavigationView;
 import android.support.design.widget.BottomSheetBehavior;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.FragmentTransaction;
@@ -12,14 +14,13 @@ import android.support.v7.app.ActionBarDrawerToggle;
 import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.View;
-import android.widget.LinearLayout;
 
 import com.one.more.R;
 import com.one.more.easybottom.MyLinearLayout;
-import com.one.more.fragment.impl.BaseFragment;
 import com.one.more.fragment.impl.DoFragment;
-import com.one.more.fragment.impl.SeeFragment;
 import com.one.more.fragment.impl.ThinkFragment;
+import com.one.util.activity.BaseActivity;
+import com.one.util.fragment.BaseFragment;
 import com.orhanobut.logger.Logger;
 
 import static android.support.design.widget.BottomSheetBehavior.STATE_COLLAPSED;
@@ -113,7 +114,6 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
             }
         });
 
-
         initFragment(savedInstanceState);
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
@@ -125,10 +125,46 @@ public class MainActivity extends BaseActivity implements View.OnClickListener, 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        LinearLayout bottomBar = (LinearLayout) findViewById(R.id.tab_layout);
-        findViewById(R.id.tab_see).setOnClickListener(this);
-        findViewById(R.id.tab_do).setOnClickListener(this);
-        findViewById(R.id.tab_think).setOnClickListener(this);
+//        LinearLayout bottomBar = (LinearLayout) findViewById(R.id.tab_layout);
+//        findViewById(R.id.tab_see).setOnClickListener(this);
+//        findViewById(R.id.tab_do).setOnClickListener(this);
+//        findViewById(R.id.tab_think).setOnClickListener(this);
+
+        BottomNavigationView bottomBar = (BottomNavigationView) findViewById(R.id.tab_layout);
+        bottomBar.setOnNavigationItemSelectedListener(
+                new BottomNavigationView.OnNavigationItemSelectedListener() {
+                    @Override
+                    public boolean onNavigationItemSelected(@NonNull MenuItem item) {
+                        FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
+                        switch (item.getItemId()){
+                            case R.id.tab_see:
+                                Logger.d(TAG+" onTabSelected: click see");
+
+                                transaction.attach(seeFragment);
+                                transaction.detach(doFragment);
+                                transaction.detach(thinkFragment);
+                                transaction.commit();
+                                break;
+                            case R.id.tab_do:
+                                Logger.d(TAG+ " onTabSelected: click do");
+
+                                transaction.attach(doFragment);
+                                transaction.detach(seeFragment);
+                                transaction.detach(thinkFragment);
+                                transaction.commit();
+                                break;
+                            case R.id.tab_think:
+                                Logger.d(TAG+" onTabSelected: click think");
+
+                                transaction.attach(thinkFragment);
+                                transaction.detach(doFragment);
+                                transaction.detach(seeFragment);
+                                transaction.commit();
+                                break;
+                        }
+                        return true;
+                    }
+                });
 
 
     }

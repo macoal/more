@@ -3,777 +3,354 @@
 
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_c67c9fee7a897f7a6d96da6dc42f2db0ac784bf4\classes.dex" />
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5209f49cb59324d896146cbd4032a5a30658bedd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18deb8669732b86efca6d57a7681e849cc8dd1ad">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_52ca19eaa3c9fea1a073ba7f0d59fddb899d2d48\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_ffc3fc329493992ec391639ce108b06613307e75\classes.dex" />
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_ffc3fc329493992ec391639ce108b06613307e75\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_3228d45c8718c24ea0ee15cc0eed60d9f3763633\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-2.0.2_842d1f5ee37c8fe4ebe095e8a727dc1a6224370d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-2.0.2_842d1f5ee37c8fe4ebe095e8a727dc1a6224370d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_fd9c2d68b68a5abaf139bbfaf94ee6e553679bb7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-android\1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-android-1.0_5b40b0ea9737158eb85f5567bbaebc8efd687f7e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-5.1.1_0abc4141e3c31a35cfa2c864dcd2555d950f8bad\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f160fc64e21637b129fedc4238bf7e1d5b19c52d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_0be0671dfe0aa3e7b2ba6bfad1d3814b986ce66c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.orhanobut-logger-1.15_862d1faf6e91946e7f22d41e2fc4062c099b7bd4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f160fc64e21637b129fedc4238bf7e1d5b19c52d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b4fa3d698eca2cc7a37325dd9fd75c51d5504b1b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.1.0_926c570158a0adac166870435b4fa1a5b0caf371\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="5819fb4e24661a7141c3a15aff850403cddf6a5f">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_748459cbc93dda530117d12f86bf4ebb33a864ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\adapter-rxjava\2.0.0-beta2\3a233746381a03dbb0f5f3ed10b11c3e72dba499\adapter-rxjava-2.0.0-beta2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.0-beta2_2e6569b9dcd91667b24ab83e7647559e91e48ed4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_fd9c2d68b68a5abaf139bbfaf94ee6e553679bb7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\org.sufficientlysecure\html-textview\1.3\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="bb3d9dfe7e6ea76ff7be8aafd0cd4a7e46fe3991">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.sufficientlysecure-html-textview-1.3_d5d3d6d5f7fe7ad8466d59e6287c18e9a1bf2805\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-0.4.0_435d3e30c5a5055e1bdff3f25e5f6887acd34466\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_fda2f2069e1c36ae5d9fb17888ff025fcafd0bc7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b8ace74e5cc0553e18dd009913908088fa01bc33\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_0be0671dfe0aa3e7b2ba6bfad1d3814b986ce66c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.orhanobut\logger\1.15\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.orhanobut-logger-1.15_862d1faf6e91946e7f22d41e2fc4062c099b7bd4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.2\5b083e2a33225bc1c7b11678b7608e2bead4e417\rxjava-1.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5b083e2a33225bc1c7b11678b7608e2bead4e417">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.2_8e6d3389881ab5fc8226b62681c9009474fe7ea0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_53d057d6d306440c31a0f90885dba97bdb1fb674\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.1.0_926c570158a0adac166870435b4fa1a5b0caf371\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_df4f956417bbee6e94b54fbf502b316ded3dfc06\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_53d057d6d306440c31a0f90885dba97bdb1fb674\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-0.4.0_435d3e30c5a5055e1bdff3f25e5f6887acd34466\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_2f170d89c7d836b4431a95770945fcea863a2810\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_3228d45c8718c24ea0ee15cc0eed60d9f3763633\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b8ace74e5cc0553e18dd009913908088fa01bc33\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.2.1_b11d02a6b994e07e0be00da142b899add1961f5b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_fda2f2069e1c36ae5d9fb17888ff025fcafd0bc7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_7041674462800dda166869befdd14f38336d61dc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b4fa3d698eca2cc7a37325dd9fd75c51d5504b1b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7cb7b49587a80da3adee4f27d1cc6bc483ee605">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_573f82b91e8da1a5ae056a241056c2a8e63a5bc1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_45744cb35b9f919d7abb861e94869f7bef54a346\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_a04f55940b3159656264727de9143b76a3e79b3e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_ffc3fc329493992ec391639ce108b06613307e75\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-android\1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-android-1.0_5b40b0ea9737158eb85f5567bbaebc8efd687f7e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_45744cb35b9f919d7abb861e94869f7bef54a346\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_7eae0955625e8646a98b09bd5bbdd58afc81add5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c176c4e03ffd0dc38847ffb148cc44210df9abe0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.3_c1c9800c79c6d006019b8ef9fc67937db6efbdac\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_2f170d89c7d836b4431a95770945fcea863a2810\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_666b37c8eb3144954b6d3e4f17e51ae649d6cfde\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_cf7e09c5684acaa992fddc120fd00bd00aa5b46a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="bf6e4c076d5201836dd3c8769ab7735eb343890a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_573f82b91e8da1a5ae056a241056c2a8e63a5bc1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3b7105277df9a8013468215c451ddefac2499d3a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.2.1_b11d02a6b994e07e0be00da142b899add1961f5b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_7041674462800dda166869befdd14f38336d61dc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_0081f71188f0844285b56848fc8c8e5fde1b7d94\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_1bb3fcd0a8e227af5a04737f9257cc8fbfef398b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_666b37c8eb3144954b6d3e4f17e51ae649d6cfde\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_0081f71188f0844285b56848fc8c8e5fde1b7d94\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_7f7e09e7dc0368f111c34fc8187c5ccd13f92fd9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_7eae0955625e8646a98b09bd5bbdd58afc81add5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_a04f55940b3159656264727de9143b76a3e79b3e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_cf7e09c5684acaa992fddc120fd00bd00aa5b46a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_199716bf37b607a375afe00575c3dccc169e38fc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c176c4e03ffd0dc38847ffb148cc44210df9abe0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.2\5b083e2a33225bc1c7b11678b7608e2bead4e417\rxjava-1.2.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="5b083e2a33225bc1c7b11678b7608e2bead4e417">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.2_8e6d3389881ab5fc8226b62681c9009474fe7ea0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_1bb3fcd0a8e227af5a04737f9257cc8fbfef398b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_63cc83aefc1bed222823eeee74a1360dca95d95a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_f2c0bdfd2bf09d133902a58523e66900113c5871\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\adapter-rxjava\2.0.0-beta2\3a233746381a03dbb0f5f3ed10b11c3e72dba499\adapter-rxjava-2.0.0-beta2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.0-beta2_2e6569b9dcd91667b24ab83e7647559e91e48ed4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.trello\rxlifecycle\1.0\6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb\rxlifecycle-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxlifecycle-1.0_183ed34a13c7735764dd63dfd111e6ffe6dc3b0c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_b19d5933c1beb4e077d8d77f360edfee481ba5c1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-components\1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.0"
-        sha1="b32c2324baa75a12968b466b74064c49841a0018">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-components-1.0_26be2eacd69d5d6f7fe4190bcebec0f7a4b50b7b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5819fb4e24661a7141c3a15aff850403cddf6a5f">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_748459cbc93dda530117d12f86bf4ebb33a864ba\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_30d250a51b7609eb4ce4ea15eaf2fdddab3c6697\classes.dex" />
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_6e32ebedcd17b1db7899a761aff2881d97f217d4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_ea08659bee72a0711c81abb77adc18cc698dfce4\classes.dex" />
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_23136771840aef7a642afcda94d6bb6061dfded4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_f2c0bdfd2bf09d133902a58523e66900113c5871\classes.dex" />
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_181ac611aa66a90fb8b21fb08094e4e0ddd30359\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_df4f956417bbee6e94b54fbf502b316ded3dfc06\classes.dex" />
+        revision="25.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_fd9c2d68b68a5abaf139bbfaf94ee6e553679bb7\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\org.sufficientlysecure\html-textview\1.3\jars\classes.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_8272d7161817754d6779b112197147a12cd4a63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_633931827e5ceaacbcbc0744558758d5756303ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.trello\rxlifecycle-android\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5db4505b366d1bdf9c7fe858119c119236cc1c5c">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-android-1.0_eaa4bc5e0fca30bbe44ffa004d529274aff04583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_960815da89f3dda184dd14734b08aa5046919030\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_53d057d6d306440c31a0f90885dba97bdb1fb674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\org.sufficientlysecure\html-textview\1.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="bb3d9dfe7e6ea76ff7be8aafd0cd4a7e46fe3991">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.sufficientlysecure-html-textview-1.3_d5d3d6d5f7fe7ad8466d59e6287c18e9a1bf2805\classes.dex" />
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\org.sufficientlysecure-html-textview-1.3_aebc9904291496d6c39cd800be1111fff9cb26b4\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\io.reactivex-rxandroid-1.1.0_c9712887309bcfca609408984e2056f3de5428f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.trello\rxlifecycle-components\1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b32c2324baa75a12968b466b74064c49841a0018">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-components-1.0_6387e08862e04ccc550905b940c95de82adf0194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_7f7e09e7dc0368f111c34fc8187c5ccd13f92fd9\classes.dex" />
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_b45414de6d4b6741cfbf2954e07a742ed2c1486a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.trello\rxlifecycle\1.0\6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb\rxlifecycle-1.0.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxlifecycle-1.0_183ed34a13c7735764dd63dfd111e6ffe6dc3b0c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
+        revision="25.0.0"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_c67c9fee7a897f7a6d96da6dc42f2db0ac784bf4\classes.dex" />
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_be2857e6a0931fb1e0972f841b23fbc7ac923b4c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_63cc83aefc1bed222823eeee74a1360dca95d95a\classes.dex" />
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_3228d45c8718c24ea0ee15cc0eed60d9f3763633\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.jakewharton.rxbinding\rxbinding\0.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
-        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_b19d5933c1beb4e077d8d77f360edfee481ba5c1\classes.dex" />
+        revision="25.0.0"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton.rxbinding-rxbinding-0.4.0_651b21a7d8c6e6b41ad4a9b62f4046b0ec017646\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.1\f7be08ec23c21485b9b5a1cf1654c2ec8c58168d\jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-3.0.1_2f170d89c7d836b4431a95770945fcea863a2810\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_fda2f2069e1c36ae5d9fb17888ff025fcafd0bc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_7041674462800dda166869befdd14f38336d61dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_1996a835762d58e4f01cd76b4e7c03b526e0e2cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_b422149b4b433bbb69e6c5767700835ecc421cd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_45744cb35b9f919d7abb861e94869f7bef54a346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_7eae0955625e8646a98b09bd5bbdd58afc81add5\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
+        revision="25.0.0"
         sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.3_c1c9800c79c6d006019b8ef9fc67937db6efbdac\classes.dex" />
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.3_c1c9800c79c6d006019b8ef9fc67937db6efbdac\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.trello\rxlifecycle-components\1.0\jars\classes.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="b32c2324baa75a12968b466b74064c49841a0018">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.trello-rxlifecycle-components-1.0_26be2eacd69d5d6f7fe4190bcebec0f7a4b50b7b\classes.dex" />
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9cc977f9a558c9ac357dbd4fb5da6fc62658df4a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.2"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_199716bf37b607a375afe00575c3dccc169e38fc\classes.dex" />
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_0081f71188f0844285b56848fc8c8e5fde1b7d94\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
-        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-5.1.1_0abc4141e3c31a35cfa2c864dcd2555d950f8bad\classes.dex" />
+        revision="25.0.0"
+        sha1="94be2595844ab1daca587e8cc6c6307ac46f6196">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ce2de5b16dd14bcda99bd4f68bd66eb9626ecae2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\Android\workspeace\more\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.3\7fe1a94c1aeb958acc876fe616922cc191f3222c\rxjava-1.2.3.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_30d250a51b7609eb4ce4ea15eaf2fdddab3c6697\classes.dex" />
+        revision="25.0.0"
+        sha1="7fe1a94c1aeb958acc876fe616922cc191f3222c">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.2.3_68d3839c4089b6411c25f83223f252751a3ae815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_39acda04df2ce92c12be586ff6259ff6348d0fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_28f6456ec9fec1861a1b8cddeda501664f886417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ccf68b437b13dadca8a5fd429a21704f6f757298\classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
         jumboMode="true"
         optimize="true"
-        revision="23.0.0"
+        revision="25.0.0"
         sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="D:\Android\workspeace\more\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_ea08659bee72a0711c81abb77adc18cc698dfce4\classes.dex" />
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_ea08659bee72a0711c81abb77adc18cc698dfce4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\adapter-rxjava\2.0.0-beta2\3a233746381a03dbb0f5f3ed10b11c3e72dba499\adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.0-beta2_2e6569b9dcd91667b24ab83e7647559e91e48ed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_8c6110b6658d454963b60c5e0bbe76d041138472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\workspeace\more\seemodule\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_d78d46fcef2cd6568e9ed856180883751bd8f1c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DELL\.gradle\caches\modules-2\files-2.1\com.trello\rxlifecycle\1.0\6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb\rxlifecycle-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a38e2cd80f46ecaf6553b2eb5a05eee6d472fdb">
+        <dex dex="D:\Android\workspeace\more\seemodule\build\intermediates\transforms\dex\debug\folders\1000\10\rxlifecycle-1.0_183ed34a13c7735764dd63dfd111e6ffe6dc3b0c\classes.dex" />
     </item>
 
 </items>
